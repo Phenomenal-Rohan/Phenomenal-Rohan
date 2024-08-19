@@ -13,6 +13,10 @@ I'm Rohan, a passionate B.Tech CSE student at CMRCET, dedicated to crafting inno
 - ⚙️ **Infrastructure Management**: Sculpted infrastructure landscapes with Terraform and Kubernetes.
 - 📊 **Database Management**: Proficient in managing databases like MySQL.
 - 🌐 **Front-end Development**: Crafted engaging projects using HTML, CSS, and JS, blending aesthetics with functionality seamlessly.
+- 🧩 **Scratch Programming**: Hyper Racing Game - https://scratch.mit.edu/projects/857352852
+
+  <center><img src="https://github.com/user-attachments/assets/49e0d248-d79e-4437-8d29-7a2e1cde0392" width="150" height="150"/></center>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Phenomenal-Rohan&theme=neon&include_all_commits=true&show_icons=true&rank_icon=github)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phenomenal-Rohan&theme=neon&layout=donut&langs_count)
