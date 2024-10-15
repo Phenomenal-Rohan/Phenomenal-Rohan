@@ -19,7 +19,7 @@ I'm Rohan, a passionate B.Tech CSE student at CMRCET, dedicated to crafting inno
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Phenomenal-Rohan&theme=neon&include_all_commits=true&show_icons=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phenomenal-Rohan&theme=neon&layout=donut&langs_count)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phenomenal-Rohan&theme=neon&layout=donut&langs_count=5)
 
 ### Let's Connect!
 I'm always eager to collaborate and push the boundaries of DevOps excellence. Reach out, and let's create something amazing together! 🌟
